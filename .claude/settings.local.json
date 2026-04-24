@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl -s -L -A \"Mozilla/5.0\" http://cincinnatikitchenbathshow.com -o \"P:/Nathan Work/Marketing/claude code files/cincinnati/original.html\")"
+    ]
+  }
+}
